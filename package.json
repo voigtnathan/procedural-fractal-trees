@@ -1,0 +1,22 @@
+{
+  "name": "procedural-fractal-trees",
+  "version": "1.0.0",
+  "description": "Little 'for fun' project using P5.js to generate fractal trees on a HTML5 canvas",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voigtnathan/procedural-fractal-trees.git"
+  },
+  "author": "Nate Voigt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voigtnathan/procedural-fractal-trees/issues"
+  },
+  "homepage": "https://github.com/voigtnathan/procedural-fractal-trees#readme",
+  "dependencies": {
+    "p5": "^0.9.0"
+  }
+}
